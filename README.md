@@ -65,7 +65,7 @@ Berikut adalah daftar perangkat lunak dan layanan yang digunakan dalam pengerjaa
 
 Berikut adalah video demonstrasi langkah-langkah pengerjaan tugas besar ini:
 
-[![Video Dokumentasi](https://img.youtube.com/vi/ID_VIDEO_KAMU/0.jpg)](LINK_VIDEO_YOUTUBE_KAMU_DISINI)
+[![Video Dokumentasi](https://img.youtube.com/vi/51XyZj04pf4/0.jpg)](https://youtu.be/51XyZj04pf4)
 
 > *Klik gambar di atas atau tautan ini untuk menonton video: [Link Video YouTube]*
 
