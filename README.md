@@ -69,7 +69,6 @@ Berikut adalah video demonstrasi langkah-langkah pengerjaan tugas besar ini:
 
 > *Klik gambar di atas atau tautan ini untuk menonton video: [Link Video YouTube]*
 
-*(Catatan: Jangan lupa ganti link di atas dengan link video YouTube kamu yang asli)*
 
 ---
 
