@@ -1,0 +1,9 @@
+backup.growtopiagame.com
+host01.growtopiagame.com
+xsolla.growtopiagame.com
+login.growtopiagame.com
+growtopiagame.com
+mail1.growtopiagame.com
+beta.growtopiagame.com
+static.growtopiagame.com
+www.growtopiagame.com

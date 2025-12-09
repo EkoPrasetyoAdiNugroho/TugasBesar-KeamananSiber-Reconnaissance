@@ -1,0 +1,209 @@
+User-agent: Applebot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: baiduspider
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Bingbot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Discordbot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: facebookexternalhit
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Googlebot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Googlebot-Image
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: ia_archiver
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: LinkedInBot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: msnbot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Naverbot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Pinterestbot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: seznambot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Slurp
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: teoma
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: TelegramBot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Twitterbot
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Yandex
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Yeti
+Disallow: /player/
+Disallow: /vanguard/
+Disallow: /forums/admincp/
+Disallow: /forums/usage/
+Disallow: /forums/logs/
+
+
+User-agent: Applebot
+Allow: /
+
+User-agent: baiduspider
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: Naverbot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: seznambot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: teoma
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: *
+Disallow: /
+

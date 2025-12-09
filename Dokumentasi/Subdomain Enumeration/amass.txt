@@ -1,0 +1,5 @@
+cdn.growtopiagame.com (FQDN) --> cname_record --> cdn.growtopiagame.com.s3-eu-west-1.amazonaws.com (FQDN)
+login.growtopiagame.com (FQDN) --> cname_record --> grow-login-alb-789365796.us-east-1.elb.amazonaws.com (FQDN)
+static.growtopiagame.com (FQDN) --> cname_record --> static-ww.cdn.ubi.com.akamaized.net (FQDN)
+world.growtopiagame.com (FQDN) --> cname_record --> world.growtopiagame.com.s3.amazonaws.com (FQDN)
+static-ww.cdn.ubi.com.akamaized.net (FQDN) --> cname_record --> a445.d.akamai.net (FQDN)

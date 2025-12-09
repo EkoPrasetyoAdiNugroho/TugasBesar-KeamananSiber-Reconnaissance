@@ -1,0 +1,96 @@
+--- A RECORD ---
+
+; <<>> DiG 9.20.11-4+b1-Debian <<>> growtopiagame.com A
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 569
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;growtopiagame.com.		IN	A
+
+;; ANSWER SECTION:
+growtopiagame.com.	20	IN	A	3.234.190.161
+growtopiagame.com.	20	IN	A	34.237.104.171
+
+;; Query time: 420 msec
+;; SERVER: 192.168.242.132#53(192.168.242.132) (UDP)
+;; WHEN: Tue Dec 09 17:06:31 WITA 2025
+;; MSG SIZE  rcvd: 78
+
+
+--- MX RECORD ---
+
+; <<>> DiG 9.20.11-4+b1-Debian <<>> growtopiagame.com MX
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51974
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;growtopiagame.com.		IN	MX
+
+;; ANSWER SECTION:
+growtopiagame.com.	3600	IN	MX	10 mail1.growtopiagame.com.
+
+;; ADDITIONAL SECTION:
+mail1.growtopiagame.com. 3600	IN	A	18.206.25.220
+
+;; Query time: 216 msec
+;; SERVER: 192.168.242.132#53(192.168.242.132) (UDP)
+;; WHEN: Tue Dec 09 17:06:31 WITA 2025
+;; MSG SIZE  rcvd: 84
+
+
+--- NS RECORD ---
+
+; <<>> DiG 9.20.11-4+b1-Debian <<>> growtopiagame.com NS
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12515
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;growtopiagame.com.		IN	NS
+
+;; ANSWER SECTION:
+growtopiagame.com.	3600	IN	NS	nic12.ubisoft.com.
+growtopiagame.com.	3600	IN	NS	nic7.ubisoft.com.
+growtopiagame.com.	3600	IN	NS	nic10.ubisoft.com.
+growtopiagame.com.	3600	IN	NS	nic8.ubisoft.com.
+growtopiagame.com.	3600	IN	NS	nic9.ubisoft.com.
+growtopiagame.com.	3600	IN	NS	nic11.ubisoft.com.
+
+;; Query time: 244 msec
+;; SERVER: 192.168.242.132#53(192.168.242.132) (UDP)
+;; WHEN: Tue Dec 09 17:06:32 WITA 2025
+;; MSG SIZE  rcvd: 171
+
+
+--- TXT RECORD ---
+
+; <<>> DiG 9.20.11-4+b1-Debian <<>> growtopiagame.com TXT
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49554
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;growtopiagame.com.		IN	TXT
+
+;; ANSWER SECTION:
+growtopiagame.com.	3600	IN	TXT	"v=spf1 +a +mx +ip4:18.206.25.220 -all"
+
+;; Query time: 100 msec
+;; SERVER: 192.168.242.132#53(192.168.242.132) (UDP)
+;; WHEN: Tue Dec 09 17:06:32 WITA 2025
+;; MSG SIZE  rcvd: 96
+
