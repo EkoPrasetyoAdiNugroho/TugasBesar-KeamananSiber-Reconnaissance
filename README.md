@@ -11,7 +11,7 @@
 | **Nama** | **Eko Prasetyo Adi Nugroho** |
 | **NIM** | **105841114223** |
 | **Kelas** | **5 JK-A** |
-| **Mata Kuliah** | Keamanan Siber (Cyber Security) |
+| **Mata Kuliah** | ETHICAL HACKING AND PENETRATION TESTING I |
 
 ---
 
